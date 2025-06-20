@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 javascript
+=======
+javascript
+>>>>>>> d276abab65f23f28b754a4e0d823a46f9f04c9e8
